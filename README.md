@@ -18,6 +18,7 @@ and appearance of Google's search page.
 This project is open for contributions. Feel free to fork the repository, make changes, and create a pull request if you'd like to improve it!
 
 **Technologies Used:**
+
 -HTML
 
 -CSS
